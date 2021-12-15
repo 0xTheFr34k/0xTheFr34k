@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ytaya)
+  
+</p>
 
-<!--
-**BleedTheFreak/BleedTheFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleedthefreak&layout=compact&theme=dark)
+![BleedTheFreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleedthefreak&theme=dark&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
+  <img src="https://img.icons8.com/plasticine/50/000000/bash.png" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+  <img src="https://img.icons8.com/color/48/000000/sql"/>
+</p>
+<p align="center">
+    <a href="mailto:tayayassine6@live.fr">Email</a> | <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a> 
+</p>
