@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yassine Taya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/nPCNWmIOcZny6Vfksa/giphy.gif" width="100">
+<!-- <img align='right' src="https://media.giphy.com/media/nPCNWmIOcZny6Vfksa/giphy.gif" width="100"> -->
 <p><em>Software Enginner Student at <a href="https://1337.ma/"> 1337 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 <div style="display:flex;">
