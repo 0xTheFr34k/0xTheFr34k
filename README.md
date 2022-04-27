@@ -1,20 +1,28 @@
-<p align="center">
+<h2> Hi, I'm Yassine Taya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/nPCNWmIOcZny6Vfksa/giphy.gif" width="150">
+<p><em>Software Enginner Student at <a href="https://1337.ma/"> 1337 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+<div style="display:flex;">
   
-</p>
+![42 Profile Card](https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=ytaya)
+![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=BleedTheFreak)
+  
+ </div>
+<!-- <div>
+  ![42 Profile Card](https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=ytaya)
+  ![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=BleedTheFreak)
+</div> -->
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleedthefreak&layout=compact&theme=dark)
-![BleedTheFreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleedthefreak&theme=dark&show_icons=true)
-
+```javascript
+const Yassine = {
+  pronouns: "he" | "his",
+  code: [Javascript, C, C#, C++, Bash, Html, Css],
+  tools: [Vim, Node , React, Next, Redux , Styled-Components],
+  speaker: "Arabic & English",
+}
+```
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
-  <img src="https://img.icons8.com/plasticine/50/000000/bash.png" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-  <img src="https://img.icons8.com/color/48/000000/dart"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter"/>
-</p>
-<p align="center">
-    <a href="mailto:tayayassine6@live.fr">Email</a> | <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a> 
+    <a href="mailto:tayayassine6@live.fr">Email</a>  |  <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a> 
 </p>
