@@ -26,3 +26,5 @@ const Yassine = {
 <p align="center">
     <a href="mailto:tayayassine6@live.fr">Email</a>  |  <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a> 
 </p>
+</br>
+<a href="https://app.daily.dev/yatya"><img src="https://api.daily.dev/devcards/28459f23c6244003a1b1b3f77b6fb941.png?r=ijg" width="250" alt="Yassine Taya's Dev Card"/></a>
