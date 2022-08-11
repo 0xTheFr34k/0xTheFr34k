@@ -27,5 +27,5 @@ const Yassine = {
 </br>
 
  # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounadi05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,javascript,css,scss,dart)</br>
-![](https://github-readme-stats.vercel.app/api?username=Mounadi05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bleedthefreak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,javascript,css,scss,dart)</br>
+![](https://github-readme-stats.vercel.app/api?username=bleedthefreak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
