@@ -25,3 +25,7 @@ const Yassine = {
     <a href="mailto:tayayassine6@live.fr">Email</a>  |  <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a> 
 </p>
 </br>
+
+ # 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounadi05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,javascript,css,scss,dart)</br>
+![](https://github-readme-stats.vercel.app/api?username=Mounadi05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
