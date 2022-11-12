@@ -16,13 +16,13 @@
 ```javascript
 const Yassine = {
   pronouns: "he" | "his",
-  code: [Javascript, C, C#, C++, Bash, Html, Css],
-  tools: [Vim, Node , React, Next, Redux , Styled-Components],
-  speaker: "Arabic & English",
+  code: [Bash, C, C++, C#, Javascript, Python, Html, Css],
+  speaker: "Arabic & English & Frensh",
 }
 ```
 <p align="center">
-    <a href="mailto:tayayassine6@live.fr">Email</a>  |  <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a> 
+    <a href="mailto:tayayassine6@live.fr">Email</a>  |  <a href="https://www.linkedin.com/in/yassine-taya-196055197/">LinkedIn</a>  | 
+  <a href="https://www.fiverr.com/users/ytaya_42/">Fiverr</a>
 </p>
 </br>
 
