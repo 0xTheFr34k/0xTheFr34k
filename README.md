@@ -15,9 +15,8 @@
 
 ```javascript
 const Yassine = {
-  pronouns: "he" | "his",
-  code: [Bash, C, C++, C#, Javascript, Python, Html, Css],
-  speaker: "Arabic & English & Frensh",
+  code: [Bash, C, C++, C#, Javascript,Typescript, Python, Html, Css],
+  speaker: "Arabic & English & Frensh"
 }
 ```
 <p align="center">
